@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@redwoodjs/api": "^0.15.3"
+    "@redwoodjs/api": "^0.15.3",
+    "better-fs": "^11.0.4"
   }
 }
